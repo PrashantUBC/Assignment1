@@ -1,0 +1,13 @@
+icache1_miss_rate,value
+icache2_miss_rate,value
+dcache_ld_miss_rate,value
+dcache_st_miss_rate,value
+dcache_wb_ratio,value
+dcachev_direct_ld_miss_rate,value
+dcachev_direct_st_miss_rate,value
+dcachev_2way_ld_miss_rate,value
+dcachev_2way_st_miss_rate,value
+dcachev_4way_ld_miss_rate,value
+dcachev_4way_st_miss_rate,value
+prefetch_cache_miss_rate,value
+prefetch_success_rate,value
